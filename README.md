@@ -1,5 +1,5 @@
 # TaylorSwiftGPT
-You are a Swiftie? If so, you have come to the right place! Ask anything about her and our friendly GPT who is the biggest Swiftie on the planet will give hit you right with the questions. 
+You are a Swiftie? If so, you have come to the right place! Ask anything about her and our friendly GPT who is the biggest Swiftie on the planet will give hit you right with the answers. 
 
 TaylorSwiftGPT is a model implemented by finetuning a pretrained Pythia suite (LLM) released by [EleutherAI](https://www.eleuther.ai/) with a taylor swift dataset from [Lamini](https://www.lamini.ai/). 
 
